@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: My second post
+author: Daniel
 categories: [travel, australia]
 ---
 

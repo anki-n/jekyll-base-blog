@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: My third post
+author: Catherine
 categories: [self care, bali]
 ---
 

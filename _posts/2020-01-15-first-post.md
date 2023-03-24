@@ -1,6 +1,7 @@
 ---
-layout: default
+layout: post
 title: My first post
+author: Tina May
 categories: [travel, bali]
 ---
 
